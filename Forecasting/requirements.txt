@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+tensorflow
+keras
+google-cloud-storage
+flask-cors
+flask
+# pystan
+holidays
+prophet
+statsmodels
+plotly
